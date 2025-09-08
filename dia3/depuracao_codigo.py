@@ -86,4 +86,4 @@ except KeyError:
     print("Essa chave não existe, coloque uma chave válida Por Favor!!")
 
 """ O terminal acusou uma key inexistente
-para outro tipo de chave que não existe nos dados"""
+para outro tipo de chave que não existe na variávelnos dados"""
